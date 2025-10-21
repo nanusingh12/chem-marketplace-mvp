@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "Base Oil 500ppm",
+    "chemical_name": "Base Oil",
+    "grade": "500ppm",
+    "price": "1200",
+    "currency": "USD",
+    "quantity": "20 MT",
+    "description": "High-quality base oil, suitable for lubricant blending.",
+    "created_at": "2025-10-21T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Acetone Solvent",
+    "chemical_name": "Acetone",
+    "grade": "Industrial",
+    "price": "900",
+    "currency": "USD",
+    "quantity": "10 MT",
+    "description": "Standard industrial acetone solvent.",
+    "created_at": "2025-10-20T00:00:00Z"
+  }
+]
